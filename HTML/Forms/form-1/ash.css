@@ -1,0 +1,15 @@
+body{
+     background: url('img/valo.webp');
+    color: rgb(25, 151, 22);
+    padding: 100px;
+}
+.container{
+    border: 2px solid rgb(255, 255, 255);
+    width: 33%;
+    margin: 7px 50px;
+    display: inline block;
+    
+    left: 80px;
+    padding:40px 30px;
+    border-radius: 28px;
+}
