@@ -1,0 +1,3 @@
+f = open("file name", "r") #used for opening a file by default read function is present with open 
+f.close() #used for closing a file
+f.read() # used to read files

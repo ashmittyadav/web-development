@@ -1,0 +1,22 @@
+p{
+    color: green;
+    background-color: pink;
+    margin: 5px;
+    border: 10px ;
+    padding: 2px;
+}
+/* fontssss */
+p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 15px;
+    line-height: 1.3em;
+    
+
+}
+span{
+    font-weight: bold;
+    font-style: italic;
+}
+#car{
+    color: red;
+}
